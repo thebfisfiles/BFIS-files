@@ -1,5 +1,4 @@
 # BFIS-files
 repo to share files related to Bright Future International School
 
-
-### Next update: Friday, 31st of Jul
+if these files dont drop another 7k goes to israel
