@@ -1,5 +1,3 @@
 # BFIS-files
-repo to share files related to Bright Future International School
+Yo so where's the files bro
 
-
-### Next update: Friday, 31st of Jul
