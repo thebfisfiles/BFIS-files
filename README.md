@@ -1,3 +1,5 @@
+Telegram: https://t.me/theBFISfiles
+
 # BFIS misconduct evidence packet
 
 Victim names, victim IDs, parent names/contact details, and non-accused minor witness names are replaced with redactions. Accused minors are identified only by initials. Accused adults are identified by the fullest supported name, QID, position, work function, employee/report identifiers, and employment state.
